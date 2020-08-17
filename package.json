@@ -1,0 +1,16 @@
+{
+  "name": "alarmbell",
+  "version": "1.0.0",
+  "description": "Alarmbell web service test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Howard Miller",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "form-data": "^3.0.0"
+  }
+}
